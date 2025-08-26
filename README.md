@@ -1,4 +1,7 @@
 # App Release Checklist
+
+At **bit.ly/keiths-app-checklist**
+
 Everything you need to get your app live on the web and the stores!
 
 So, you've worked through the [Expo tutorial](https://docs.expo.dev/tutorial/introduction/) made something cool for your phone with a vibe-coding tool. What's next? How do I get this to the app stores? Let's talk about that.
