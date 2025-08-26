@@ -1,7 +1,7 @@
 # App Release Checklist
 Everything you need to get your app live on the web and the stores!
 
-So, you've worked through the [Expo tutorial[(https://docs.expo.dev/tutorial/introduction/) made something cool for your phone with a vibe-coding tool. What's next? How do I get this to the app stores? Let's talk about that.
+So, you've worked through the [Expo tutorial](https://docs.expo.dev/tutorial/introduction/) made something cool for your phone with a vibe-coding tool. What's next? How do I get this to the app stores? Let's talk about that.
 
 We'll divide this into a few different phases. Take things one step at a time, there's a handful of little and somewhat bigger things to do, but you'll get through them :).
 
