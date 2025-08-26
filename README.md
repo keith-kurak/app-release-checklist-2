@@ -56,6 +56,7 @@ _Recommendation: Use https://app-mockup.com/ (free) to create the correct sized 
 #### iOS
 - [ ] One screenshot matching the size of the iPhone 16 Pro Max (1320 x 2868px)
 - [ ] (if targeting iPad) one screenshot matching the 13" iPad (2048 × 2732px)
+  - _The iOS simulator may add alpha to screenshots. You can remove it in the standard macOS editor_
 
 #### Android
 - [ ] Two screenshots with a 9x16 pixel ratio or more vertically (basically any Android phone)
