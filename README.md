@@ -11,6 +11,9 @@ Do whatever works for you, but I like to copy this markdown into a new Issue in 
 ## 1. Finishing touches to your code 
 - [ ] Create an icon and splash screen image, add them to your project. Follow the guide here: https://docs.expo.dev/develop/user-interface/splash-screen-and-app-icon/
   - Our Figma template (above link) is really helpful for the layout. You can draw your own icon, use tools in Figma, or even ask ChatGPT to generate a logo with a transparent background.
+
+### For your store listing
+_Since Expo can deploy to web, you can add these essential bits needed for your store listing here. You could also do this outside of your app's code._
 - [ ] Create a Privacy Policy page (URL: `/privacy`) (AI can help here!)
 - [ ] (Optional) Create an `/about` page for your store listing
 
