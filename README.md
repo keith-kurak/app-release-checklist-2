@@ -26,6 +26,9 @@ _You'll need accounts with Google and Apple in order to publish to the stores. I
 - [ ] Sign up as a [Google Play developer](https://play.google.com/console/u/0/signup) ($25 USD one-time)
 
 ## 3. Build and deploy (and test!)
+### Express option for vibe-coders and others
+[Expo Launch](https://launch.expo.dev/) lets you deploy to Apple Testflight and EAS Hosting (web) right from your web browser, no CLI needed. Just bring a public Github repo.
+
 ### All
 - [ ] If there's any features you can't test in Expo Go, add those and create a [Development Build](https://docs.expo.dev/develop/development-builds/introduction/) to wrap up development.
 
